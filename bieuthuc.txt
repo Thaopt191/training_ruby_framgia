@@ -1,0 +1,19 @@
+Lay thuoc tinh 							:
+Lấy phương thức							.
+Thao tác mảng : 						[] []=
+Lấy lũy thừa:							**
+Toán tử phủ đinh, đảo bít, tăng, giảm :	! ~ + -
+Toán tử nhân, chia, chia lấy dư 		*, /, %
+Toán tử cộng, trừ 						+, -
+Toán tử dịch bít 						>>, <<
+Toán tử AND bít 						&
+Toán tử OR								^|
+Toán tử so sánh hơn kém					>, < , >=, <=
+Toán tử so sánh bằng 					==, <=>, ===, =~, !~
+Toán tử logic AND						&&
+Toán tử logic OR 						||
+Toán tử tạo phạm vi						..
+Toán tử gán 							=, +=, -=,*=,/=,**=
+Toán tử điều kiện						?:
+Phủ định								not
+
